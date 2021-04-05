@@ -1,2 +1,5 @@
 //GIT te permite tener un backup en la nube de tu proyecto.También te permite revertir archivos y proyectos enteros a un estado anterior, comparar cambios a lo largo del tiempo, ver quién modificó por última vez algo que puede estar causando un problema, quién introdujo un error y cuándo, y mucho más.
 //Al ser un sistema de control de versiones, GIT te permite evertir archivos y proyectos enteros a un estado anterior, comparar cambios a lo largo del tiempo, ver quién modificó por última vez algo que puede estar causando un problema, quién introdujo un error y cuándo, y mucho más.
+//Para verificar que la instalación se haya realizado correctamente, abrí una terminal y correr el comando git --version.
+//Es a través de los commits que vamos a poder hacer el seguimiento de los cambios que se van realizando en los proyectos, ya que cada uno de ellos genera un punto cronológico en la línea de tiempo del proyecto.
+//Cada vez que subimos archivos (nuevos o modificados) a un repositorio remoto, se suben en forma de un pequeño paquete de modificaciones de archivos. Cada paquete tiene una fecha de creación (timestamp) y un autor.
